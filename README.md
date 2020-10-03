@@ -1,6 +1,8 @@
 # mcMMO
 ## The #1 RPG Mod for Minecraft
 
+![Java CI](https://github.com/ArcLand-Project/mcMMO/workflows/Java%20CI/badge.svg)
+
 ## Website
 I'm working on a brand new website for mcMMO
 
